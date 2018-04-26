@@ -1,0 +1,72 @@
+body {
+	height:100%;
+}
+
+h1 span { 	font-size:16px; 
+			font-weight:normal;
+}
+
+.something {
+	display: flex;
+	justify-content: center;
+}
+
+.line {
+	border-bottom: 1px solid #FA4516;
+	margin : 20px;
+}
+
+#persona {
+    left: 300px;
+    height: 300px;
+    width: 300px;
+}
+
+.col {	
+	border: 1px solid black;
+	border: double;
+	padding-top: 10px;
+}
+
+#aboutimg {
+	height: 200px;
+	width: 200px;
+	margin-top: 10px;
+}
+
+#aboutimg2 {
+	height: 200px;
+	width: 200px;
+	margin-top: 10px;
+}
+
+.btn-primary {
+background-color: #FA4516;}
+
+form {
+    display: inline-block;
+    text-align: center;
+}
+
+.text-center {
+	padding-top: 10px;
+
+}
+
+.class_title{
+  display:block;
+  padding: 10px 10px 0px 0px;
+  color: #FA4516; 
+  font-size: 45px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.Headline {
+  display:block;
+  padding: 10px 10px 0px 0px;
+  color: #FA4516; 
+  font-size: 45px;
+  font-weight: bold;
+}
+
