@@ -1,3 +1,31 @@
-.my-primary{
-	
+.my_primary{
+	color:#FA4520;
+}
+
+.my_background{
+	background-color: #F5F5F5 !important;
+}
+
+.active{
+	background-color:#FA4520;
+	color:white;
+}
+
+p{
+	text-align: justify;
+}
+
+.container{
+	margin-top:50px;
+}
+
+.classes_sport{
+	padding:30px;
+	background-color: #F5F5F5 !important;
+}
+
+.footer{
+	margin-top:20px;
+	padding:20px 150px;
+	background-color: #F5F5F5;
 }
